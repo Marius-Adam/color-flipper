@@ -14,6 +14,7 @@ Creating these small projects with plain JavaScript gave me a better understandi
 ## Functionality
 
 Two modes:
-
-1.Simple - color is picked from an array that contains different color codes.
-2.Hex - a random hex color code is generated every time.
+<ol>
+  <li>Simple - color is picked from an array that contains different color codes.</li>
+  <li>Hex - a random hex color code is generated every time.</li>
+</ol>
